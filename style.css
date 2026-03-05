@@ -78,7 +78,7 @@ border: none;
 .btn3{
 
 background-color: rgb(2, 2, 54);
-color: white;
+color:white;
 padding: 10px;
 border: none;
 }
@@ -326,7 +326,7 @@ width: 70%;
 
      width: 100%;
     height: 450px;
-    linear-gradient:
+    
 }
 
 
@@ -436,5 +436,10 @@ padding: 20px;
       width: 80%;
 
 }
+
+/* @media screen and (max-width:768px) {
+    
+    
+} */
 
 
