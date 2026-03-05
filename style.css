@@ -231,10 +231,11 @@ width: 70%;
 }
 
 
-.col{
+.thirdsection .row{
     width: 100%;
     height: 250px;
     background-color: rgb(243, 242, 242);
+
 
 }
 .col1{
@@ -242,9 +243,10 @@ width: 70%;
     ;
     height: 250px;
     width: 100%;
-    
-  
+
 }
+
+
 .studentlife{
     color: white;
     position: relative;
@@ -261,7 +263,7 @@ width: 70%;
     position: relative;
     top: 120px;
     font-size: 30px;
- box-shadow: 1px 0 grey;
+ box-shadow: 2px 0 grey;
   
 }
 
@@ -315,3 +317,124 @@ width: 70%;
     top: 100px;
     
 }
+
+.fouthcontainer{
+   background: linear-gradient(to bottom, rgb(158, 88, 158), rgb(24, 24, 107)) ;
+}
+.fouthsubcontainer{
+    /* background: linear-gradient(to bottom, rgb(158, 88, 158), rgb(24, 24, 107)) ; */
+
+     width: 100%;
+    height: 450px;
+    linear-gradient:
+}
+
+
+.edufouth{
+    color: white;
+    text-align: left;
+    position: relative;
+    left: 40px;
+    padding-top: 50px;
+    font-size: 30px;
+}
+
+.graphic1{
+    text-align: center;
+    color: white;
+    position: relative;
+    top: 10px;
+    font-size: 20px;
+}
+
+
+
+.colA{
+     background-color: rgb(202, 141, 29);
+      height: 200px;
+      padding: 20px;
+      position: relative;
+      left: 20px;
+      width: 80%;
+    }
+.colA .fa-solid{
+    background-color: rgb(202, 141, 29);
+      padding: 20px;
+      position: relative;
+      left: 1px;
+      top: 10px;
+      font-size: 70px;
+}
+
+
+.businessmanage{
+    text-align: center;
+    color: white;
+    position: relative;
+    top: 10px;
+    font-size: 20px;
+}
+.colB{
+   background-color: red;
+      height: 200px;
+      padding: 20px;
+      position: relative;
+      left: 20px;
+      width: 80%;
+     tpp: 2px;
+}
+
+.fifthicon i{
+
+padding: 20px;
+      position: relative;
+      left: 1px;
+      top: 10px;
+      font-size: 70px;
+      background-color: red;
+     
+      /* margin-right: 230px;
+  font-size: 50px; */
+}
+
+
+
+
+.program1{
+    text-align: center;
+    color: white;
+    position: relative;
+    top: 70px;
+    font-size: 20px;
+}
+
+.colC{
+    background-color: rgb(108, 184, 108);
+      height: 200px;
+      padding: 20px;
+      position: relative;
+      left: 20px;
+      width: 80%;
+
+}
+
+
+.foreign1{
+    text-align: center;
+    color: white;
+    position: relative;
+    top: 70px;
+    font-size: 20px;
+}
+
+.colD{
+    background-color: rgb(201, 194, 194);
+      height: 200px;
+      padding: 20px;
+      position: relative;
+      left: 20px;
+      width: 80%;
+
+}
+
+
